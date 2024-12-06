@@ -1,4 +1,4 @@
-# Niryo Ned2 Robot for Elevator Button Detection
+# Niryo Ned2 Robot for correct Elevator Button pressing
 
 <div align="center">
     <img src="Videos/Ned2.2.jpg" alt="Cover Image" width="300">
